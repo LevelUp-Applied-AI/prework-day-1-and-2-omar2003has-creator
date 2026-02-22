@@ -28,8 +28,8 @@
 ] Screenshot: RAM and CPU details
 - [![Uploading image.png…]()
  ] Screenshot: Free disk space
-- [x ] Screenshot: Internet speed test result
-- [ x] Screenshot: Admin rights confirmed
+- [x] Screenshot: Internet speed test result
+- [x] Screenshot: Admin rights confirmed
 
 **Windows only:**
 - [<img width="328" height="74" alt="image" src="https://github.com/user-attachments/assets/0a7fe71e-df7f-43b8-b7ff-3ae63e7cb076" />
