@@ -22,20 +22,15 @@
 
 ## Evidence Checklist
 
-- [ <img width="602" height="95" alt="image" src="https://github.com/user-attachments/assets/fd73d5b3-48e6-48a5-bced-687ccb9f4402" />
-] Screenshot: OS version
-- [ <img width="1007" height="150" alt="image" src="https://github.com/user-attachments/assets/963eb71b-2f1e-4f58-98fa-a54fd24acd4c" />
-] Screenshot: RAM and CPU details
-- [<img width="480" height="457" alt="image" src="https://github.com/user-attachments/assets/b7b40cf7-0b8b-475a-8507-e03fd26fc149" />
-]Screenshot: Free disk space
+- [<img width="602" height="95" alt="image" src="https://github.com/user-attachments/assets/fd73d5b3-48e6-48a5-bced-687ccb9f4402" />] Screenshot: OS version
+- [<img width="1007" height="150" alt="image" src="https://github.com/user-attachments/assets/963eb71b-2f1e-4f58-98fa-a54fd24acd4c" />] Screenshot: RAM and CPU details
+- [<img width="480" height="457" alt="image" src="https://github.com/user-attachments/assets/b7b40cf7-0b8b-475a-8507-e03fd26fc149" />] Screenshot: Free disk space
 - [x] Screenshot: Internet speed test result
 - [x] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [<img width="328" height="74" alt="image" src="https://github.com/user-attachments/assets/0a7fe71e-df7f-43b8-b7ff-3ae63e7cb076" />
- ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ <img width="320" height="51" alt="image" src="https://github.com/user-attachments/assets/a4b7e3cf-1705-4917-b971-524687baafa6" />
-] Screenshot: `wsl --status` output
+- [<img width="328" height="74" alt="image" src="https://github.com/user-attachments/assets/0a7fe71e-df7f-43b8-b7ff-3ae63e7cb076" />] Screenshot: `wsl -l -v` output showing WSL 2
+- [<img width="320" height="51" alt="image" src="https://github.com/user-attachments/assets/a4b7e3cf-1705-4917-b971-524687baafa6" />] Screenshot: `wsl --status` output
 
 ---
 
