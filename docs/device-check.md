@@ -26,8 +26,8 @@
 ] Screenshot: OS version
 - [ <img width="1007" height="150" alt="image" src="https://github.com/user-attachments/assets/963eb71b-2f1e-4f58-98fa-a54fd24acd4c" />
 ] Screenshot: RAM and CPU details
-- [![Uploading image.png…]()
- ] Screenshot: Free disk space
+- [<img width="480" height="457" alt="image" src="https://github.com/user-attachments/assets/b7b40cf7-0b8b-475a-8507-e03fd26fc149" />
+]Screenshot: Free disk space
 - [x] Screenshot: Internet speed test result
 - [x] Screenshot: Admin rights confirmed
 
