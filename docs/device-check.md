@@ -33,7 +33,7 @@
 
 **Windows only:**
 - [<img width="328" height="74" alt="image" src="https://github.com/user-attachments/assets/0a7fe71e-df7f-43b8-b7ff-3ae63e7cb076" />
- ] Screenshot: `wsl -l -v` output showing WSL 2
+ ] Screenshot: `wsl -l -v` output showing WSL 2
 - [ <img width="320" height="51" alt="image" src="https://github.com/user-attachments/assets/a4b7e3cf-1705-4917-b971-524687baafa6" />
 ] Screenshot: `wsl --status` output
 
@@ -49,3 +49,5 @@
 ## Device Notes
 
 [Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+
+هي النص اكتبه
