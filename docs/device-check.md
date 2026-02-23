@@ -22,21 +22,23 @@
 
 ## Evidence Checklist
 
-- [<img width="602" height="95" alt="image" src="https://github.com/user-attachments/assets/fd73d5b3-48e6-48a5-bced-687ccb9f4402" />] Screenshot: OS version
-- [<img width="1007" height="150" alt="image" src="https://github.com/user-attachments/assets/963eb71b-2f1e-4f58-98fa-a54fd24acd4c" />] Screenshot: RAM and CPU details
-- [<img width="480" height="457" alt="image" src="https://github.com/user-attachments/assets/b7b40cf7-0b8b-475a-8507-e03fd26fc149" />] Screenshot: Free disk space
+- [<img width="785" height="127" alt="image" src="https://github.com/user-attachments/assets/90c430e2-ecfa-4c02-9297-6eab8de3f12a" />] Screenshot: OS version
+- [<img width="1258" height="198" alt="image" src="https://github.com/user-attachments/assets/2be5bdbe-ac84-46a4-9357-cc58ce15c908" />] Screenshot: RAM and CPU details
+- [<img width="614" height="540" alt="image" src="https://github.com/user-attachments/assets/4d58ca9b-88df-49bf-8a92-5993cd56c889" />] Screenshot: Free disk space
 - [x] Screenshot: Internet speed test result
 - [x] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [<img width="328" height="74" alt="image" src="https://github.com/user-attachments/assets/0a7fe71e-df7f-43b8-b7ff-3ae63e7cb076" />] Screenshot: `wsl -l -v` output showing WSL 2
-- [<img width="320" height="51" alt="image" src="https://github.com/user-attachments/assets/a4b7e3cf-1705-4917-b971-524687baafa6" />] Screenshot: `wsl --status` output
+- [<img width="448" height="126" alt="image" src="https://github.com/user-attachments/assets/5f8525f5-c6e6-4274-88f4-a07fd351147e" />
+] Screenshot: `wsl -l -v` output showing WSL 2
+- [<img width="421" height="131" alt="image" src="https://github.com/user-attachments/assets/8b5a040f-7a8f-4b29-8e6f-a3e09f927238" />] Screenshot: `wsl --status` output
 
 ---
 
 ## Admin Rights Confirmation
 
-**Result:** [<img width="976" height="60" alt="image" src="https://github.com/user-attachments/assets/14e5aa1c-c592-4f33-b8f9-55cf07b75717" />
+**Result:** [<img width="1243" height="90" alt="image" src="https://github.com/user-attachments/assets/5b3718c1-9b51-4ec0-af6a-76b1ce84d515" />
+
 ]
 
 ---
