@@ -28,3 +28,9 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+When to use eachr
+
+I Added 3 folder :data ,notbooks,stc 
+and added a file to each folder 
+and wrote code in each file .
